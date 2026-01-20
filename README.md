@@ -5,7 +5,7 @@ via https://eegops.com and is designed for fast, practical use in research and l
 
 Help: https://github.com/MikeOh-SQ/eegops_help  
 Contact: mikeoh@kakao.com  
-Author: Kyungmin Oh (O Kyungmin), Graduate School of Psychology Innovation, Yonsei University
+Author: Kyungmin Oh, Graduate School of Psychology Innovation, Yonsei University
 
 ## What You Can Do
 
